@@ -5,4 +5,6 @@ Prerequisite:
 Download the document and follow each step till end 
 
 After Successfully completion of all the command Put your public-IP in Browser
-May be after you put the url it will ask for permission
+
+
+ 
